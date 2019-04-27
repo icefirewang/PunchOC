@@ -1,5 +1,7 @@
-<img src="https://github.com/icefirewang/PunchOC/blob/master/GitHubIcon.png" width ="500" height="200" align=middle/>
-一个自动给您的 Objective-C 代码排版的工具。
+<img src="https://github.com/icefirewang/PunchOC/blob/master/GitHubIcon.png" width ="700" height="412" align=middle/>
+** **
+
+#一个自动给您的 Objective-C 代码排版的工具。
 
 
 
