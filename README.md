@@ -1,17 +1,13 @@
 <p align="center" >
-<img src="https://github.com/icefirewang/PunchOC/blob/master/GitHubIcon.png" width ="700" height="412" title="punchOC"/>
+<img src="https://github.com/icefirewang/PunchOC/blob/master/res/GitHubIcon.png" width ="700" height="412" title="punchOC"/>
  </p>
  
 # 一个自动给您的 Objective-C 代码排版的工具。
-
-<<<<<<< HEAD
-一个自动给您的 Objective-C 代码排版的工具。
-=======
 **将您的OC文件拖动到状态栏的图标中，或快捷窗口中。**
 <p align="center" >
-<img src="https://github.com/icefirewang/PunchOC/blob/master/show.gif" width ="578" height="800" title="punchOC"/>
+<img src="https://github.com/icefirewang/PunchOC/blob/master/res/show.gif" width ="578" height="800" title="punchOC"/>
  </p>
->>>>>>> fb3835f1985050ab6896f7797fa4e6eb2a8463c7
+
 
 ## 其它功能
 * 给头文件中的函数添加注释
